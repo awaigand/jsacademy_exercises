@@ -39,6 +39,8 @@ var hotel = {
 
 let makeAllTrue = [];
 
+//EDIT-START
+
 makeAllTrue.push((roomNumbersEcho[3]() + " " + roomNumbersEcho2[3]() + " "+ roomNumbersEcho3[3]()) === "change me" );
 
 baseNumber = 200;
