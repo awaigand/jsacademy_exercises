@@ -1,0 +1,4 @@
+Exercise 2 - Scope chain and lexical scope
+Try to make all members of true by changing all "change me"s to the value you expect.
+NOTE:
+    Since we are using '===' you can't  always use strings. So use, for example 42 instead of "42" when only a number is compared in the log statement (in LogIt() for example).
